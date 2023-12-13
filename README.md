@@ -1,6 +1,5 @@
 ##  Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
 Hello, I'm Josh Gildea. Current MBA student pursuing a certificate in Financial Engineering at Penn State Erie, The Behrend College. I graduated in May 2023 with two Bachelor of Science Degrees in Management Information Systems and Business Economics from Penn State Erie, The Behrend College. I have experince in... 
 
@@ -23,8 +22,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](https://www.linkedin.com/in/josh-gildea/)
 
-My name is Josh Gildea. I am a current MBA student pursuing a certificate in financial engineering at Penn State Erie, The Behrend College. I graduated in May 2023 with a dual degree in Management Information Systems and Business Economics from Penn State Erie, The Behrend College. 
+
+. 
 
