@@ -1,4 +1,4 @@
-# 🗺 Katie's Portfolio
+# 🗺 Josh's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [R and Stata](#katies-guides)
 
 # Data Engineering
 
@@ -51,7 +51,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Katie's Guides
+# R and Stata
 
 ## 📚 SQL Resources
 
