@@ -12,7 +12,7 @@ Hello, I'm Josh Gildea. Current MBA student pursuing a certificate in Financial 
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/joshgildea/joshgildea/tree/portfolio).
 
 ### 🛠️ Tools
 
